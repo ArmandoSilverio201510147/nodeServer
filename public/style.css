@@ -1,0 +1,10 @@
+#btnGroup2 {
+    background-color: blue;
+    border-style: solid;
+    height: inherit;
+}
+
+#div1 {
+    border-style: solid;
+    background-color: red;
+}
